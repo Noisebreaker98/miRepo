@@ -2,4 +2,5 @@
 ## Esto es un subtítulo.
 
 Esto es un texto en **negrita**.
-__subrayado__.
+_cursiva_.
+***Cursiva y negrita***
